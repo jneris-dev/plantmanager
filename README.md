@@ -2,10 +2,12 @@
 <img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/logo.svg">
 </p>
 
-![](https://img.shields.io/badge/npm-6.14.12-c73536)
-![](https://img.shields.io/badge/node-14.16.0-72ba54)
-![](https://img.shields.io/badge/lang-typescripts-007acc)
-![](https://img.shields.io/badge/tool-vsCode-373377)
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=FFFFFF&labelColor=c73536">
+  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=FFFFFF&labelColor=72ba54">
+  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=FFFFFF&labelColor=007acc">
+  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=FFFFFF&labelColor=373377">
+</p>
 
 <p align="center">
 <img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/plantmanager-preview.png">
