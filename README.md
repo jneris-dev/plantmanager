@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=FFFFFF&labelColor=c73536">
-  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=FFFFFF&labelColor=72ba54">
-  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=FFFFFF&labelColor=007acc">
-  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=FFFFFF&labelColor=373377">
+  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=c73536&labelColor=32B768">
+  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=72ba54&labelColor=32B768">
+  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=007acc&labelColor=32B768">
+  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=373377&labelColor=32B768">
 </p>
 
 <p align="center">
