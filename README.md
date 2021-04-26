@@ -2,15 +2,13 @@
 <img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/logo.svg">
 </p>
 
-<p align="center">
 ![](https://img.shields.io/badge/npm-6.14.12-c73536)
 ![](https://img.shields.io/badge/node-14.16.0-72ba54)
 ![](https://img.shields.io/badge/lang-typescripts-007acc)
 ![](https://img.shields.io/badge/tool-vsCode-373377)
-</p>
 
 <p align="center">
-![plantManagerJneris plantManagerJneris](https://github.com/jneris-wd/plantmanager/blob/master/assets/plantmanager-preview.png)
+<img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/plantmanager-preview.png">
 </p>
 
 ---
