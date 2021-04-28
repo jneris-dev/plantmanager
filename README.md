@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=FFFFFF&labelColor=32B768">
+  <img  src="https://img.shields.io/github/license/jneris-wd/plantmanager?color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/github/languages/top/jneris-wd/plantmanager?color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/github/last-commit/jneris-wd/plantmanager?color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/github/repo-size/jneris-wd/plantmanager?color=52665a&labelColor=32B768&style=flat-square">
 </p>
 
 <p align="center">
@@ -15,23 +15,22 @@
 
 ---
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
-This project was developed using the following technologies:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactnative.dev/) 
+[<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" height="48" />](https://expo.io/)
 
-## 🚀 Getting started
+## 🚀 Iniciando
 
-Clone the project and access the folder
+Clone o projeto e acesse a pasta
 
 ```bash
 $ git clone https://github.com/jneris-wd/plantmanager.git && cd plantmanager
 ```
 
-Follow the steps below
+Siga os passos abaixo
 ```bash
 # Install the dependencies
 $ yarn install
@@ -40,20 +39,24 @@ $ yarn install
 $ expo start
 ```
 
-## 💻 Project
+## 💻 Projeto
 
-App to always remember to water your plants 🌱
+App para lembrar sempre de regar suas plantas 🌱
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante Abril 19-25, 2021.
 
 ## 🔖 Layout
 
-You can view the project layout through the links below:
+Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
+[<img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/figma.png">](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager)
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+Lembrando que você precisa ter uma [Figma](http://figma.com/) conta para acessá-lo.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) arquivo para obter mais detalhes.
 
 ---
 
-Made by [jneris](https://www.jneris.com.br) 👋
+Feito com 🖤 por [jneris](https://www.jneris.com.br) 👋
