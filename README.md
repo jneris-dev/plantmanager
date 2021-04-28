@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=FFFFFF&labelColor=32B768">
-  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=FFFFFF&labelColor=32B768">
+  <img  src="https://img.shields.io/github/license/jneris-wd/plantmanager?color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/static/v1?label=npm&message=6.14.12&color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/static/v1?label=node&message=14.16.0&color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/static/v1?label=lang&message=typescripts&color=52665a&labelColor=32B768&style=flat-square">
+  <img  src="https://img.shields.io/static/v1?label=tool&message=vsCode&color=52665a&labelColor=32B768&style=flat-square">
 </p>
 
 <p align="center">
@@ -50,7 +51,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 
 You can view the project layout through the links below:
 
-- [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager) 
+[<img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/figma.png">](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager)
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
