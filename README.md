@@ -15,23 +15,22 @@
 
 ---
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
-This project was developed using the following technologies:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactnative.dev/) 
+[<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" height="48" />](https://expo.io/)
 
-## 🚀 Getting started
+## 🚀 Iniciando
 
-Clone the project and access the folder
+Clone o projeto e acesse a pasta
 
 ```bash
 $ git clone https://github.com/jneris-wd/plantmanager.git && cd plantmanager
 ```
 
-Follow the steps below
+Siga os passos abaixo
 ```bash
 # Install the dependencies
 $ yarn install
@@ -40,24 +39,24 @@ $ yarn install
 $ expo start
 ```
 
-## 💻 Project
+## 💻 Projeto
 
-App to always remember to water your plants 🌱
+App para lembrar sempre de regar suas plantas 🌱
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, apresentado por **[@Rocketseat](https://github.com/Rocketseat)** durante Abril 19-25, 2021.
 
 ## 🔖 Layout
 
-You can view the project layout through the links below:
+Você pode visualizar o layout do projeto através dos links abaixo:
 
 [<img src="https://github.com/jneris-wd/plantmanager/blob/master/assets/figma.png">](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager)
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+Lembrando que você precisa ter uma [Figma](http://figma.com/) conta para acessá-lo.
 
-## 📝 License
+## 📝 Licença
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) arquivo para obter mais detalhes.
 
 ---
 
-Made with 🖤 by [jneris](https://www.jneris.com.br) 👋
+Feito com 🖤 por [jneris](https://www.jneris.com.br) 👋
