@@ -42,9 +42,19 @@ export function UserIdentification() {
     async function handleSubmit() {
         if (!name)
             return Alert.alert('Me diz como chamar você 😢');
+        try {
+            await AsyncStorage.setItem('@plantmanager:user', name);
+            navegation.navigate('Confirmation', {
+                title: 'Prontinho',
+                subtitle: 'Agora vamos começar a cuidar das suas plantinhas com muito cuidado.',
+                buttonTitle: 'Começar',
+                icon: 'smile',
+                nextScreen: 'PlantSelect',
+            });
+        } catch {
+            return Alert.alert('Não foi possivel salvar seu nome. 😢');
+        }
 
-        await AsyncStorage.setItem('@plantmanager:user', name);
-        navegation.navigate('Confirmation');
     }
 
     return (
