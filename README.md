@@ -19,8 +19,9 @@
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactnative.dev/) 
-[<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png" height="48" />](https://expo.io/)
+![](https://img.shields.io/badge/expo-41.0.1-f1f1f1?style=for-the-badge&logo=expo&labelColor=111111)
+![](https://img.shields.io/badge/react-0.64.0-06bcee?style=for-the-badge&logo=react&labelColor=20232a)
+![](https://img.shields.io/badge/typescript-4.0.0-3178c6?style=for-the-badge&logo=typescript&labelColor=f1f1f1)
 
 ## 🚀 Iniciando
 
@@ -59,4 +60,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE.md) a
 
 ---
 
-Feito com 🖤 por [jneris](https://www.jneris.com.br) 👋
+[<img src="https://img.shields.io/badge/JNeris-Visit-ff0137?style=for-the-badge&logo=data:image/png;base64,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&labelColor=000000">](https://jneris.com.br/) 
